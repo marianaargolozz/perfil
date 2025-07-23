@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="assets/menina-kawaii" alt="Menina kawaii" width="250"/>
+  <img src="assets/menina-kawaii" alt="menina-kawaii" width="250"/>
 </div>
 
 ## 🌸 Olá, eu sou a Mariana 🌸
