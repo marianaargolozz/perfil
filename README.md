@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://i.imgur.com/F8H8WfG.png" alt="Menina kawaii" width="250"/>
+  <img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/assets/menina-kawaii.png" alt="Menina kawaii" width="250"/>
 </div>
+
 
 ## 🌸 Olá, eu sou a Mariana 🌸
 
