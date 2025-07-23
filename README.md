@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/assets/menina-kawaii.png" alt="Menina kawaii" width="250"/>
-</div>
-
+<img src="https://raw.githubusercontent.com/marianaargolozz/NOME-DO-REPO/main/menina-kawaii.png" alt="Menina kawaii" width="250"/>
 
 ## 🌸 Olá, eu sou a Mariana 🌸
 
