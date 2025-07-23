@@ -1,22 +1,37 @@
-# 🌸 Olá! Eu sou a Mariana 🌸
 
-✨ Bem-vindo(a) ao meu cantinho no GitHub! ✨
-Sou estudante de **Engenharia de Software** 💻 e trabalho com **marketing digital** e **edição de vídeo** 🎥. Amo aprender coisas novas e estou construindo meus projetos com muito carinho! 🌱
+<div align="center">
+  <img src="assets/menina-kawaii.png" alt="Menina ruiva kawaii" width="250"/>
+</div>
 
-🌸 **Sobre mim**:
+## 🌸 Olá, eu sou a Mariana 🌸
 
-- 🙏🏼 Deus acima de tudo
-- 💕 Apaixonada por tecnologia
-- 📝 Sempre buscando evoluir e aprender
+🙏🏻 Deus acima de tudo  
+🎓 Estudante de Engenharia de Software  
+💻 Apaixonada por tecnologia  
+📚 Sempre em busca de evolução!  
 
-📫 **Me encontre aqui:**
-[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_instagram)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00aaff?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu_linkedin)
+---
 
-🐰 **Tecnologias favoritas**:
-![HTML](https://img.shields.io/badge/HTML5-FE7A16?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-379AD6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+### 🛠️ Tecnologias que mais uso
 
-🌼 “Com pequenos passos, construo grandes sonhos.” 🌼
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
+
+---
+
+### 📈 GitHub Stats
+
+![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianaargolozz&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianaargolozz&layout=compact&theme=radical)](https://github.com/marianaargolozz)
+
+---
+
+### 📫 Vamos conversar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mariana-argolo-208b87351/)
+
+---
+
+⭐️ Obrigada por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e colaborar!
